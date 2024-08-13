@@ -119,36 +119,17 @@ Credit Card is majorly used in Chennai , Delhi/NCR by 25-34 Age Group majorly on
 
 Age Group Insights & Recommendations 
  
-Insights 
-The 25-34 and 35-45 age group showcases a strong inclination for credit card utilization.
-To enhance the likelihood of credit card usage, especially among the target audience of individuals aged 25-40 who spend and earn more, consider incorporating the following key features into your credit card offerings
-Recommendations 
-Offer cashback, points, or miles for every transaction, encouraging users to use the credit card for everyday expenses.
-A credit card with low or no annual fees is more attractive to potential users.
-Provide higher credit limits to accommodate the spending patterns and financial capacity of the target audience.
-Offer attractive sign-up bonuses, such as bonus points or cash rewards upon card activation, to incentivize new users.
+![image](https://github.com/user-attachments/assets/1815e185-854a-457d-a25f-42530054d1a0)
+
 
 Spending Category Insights & Recommendations 
-Insights 
-Substantial spending in bills, groceries and electronics
 
-Recommendations 
-Enhance rewards for key spending categories by introducing dynamic cashback rates, loyalty points, or partner discounts, giving cardholders a strong incentive to use their credit cards more often.
-Establish strategic partnerships with well-known brands to offer exclusive discounts, early access to sales, or special financing options for products in popular spending categories. Additionally, partner with utility companies to provide exclusive discounts or cashback for bill payments made with the credit card.
-Work with grocery chains and electronics retailers to deliver special promotions or discounts for cardholders.
-Extend warranties on electronic purchases to add further value.
+![image](https://github.com/user-attachments/assets/9383f6a8-29d4-42cc-a010-958ea04def48)
 
 
 
 Occupation Insights & Recommendations 
-Insight
- Salaried IT employees, Freelancers, and Salaried Other Employees represent a significant user base with notable spending patterns.
 
-Recommendation: To enhance credit card usage among these target groups, consider integrating the following features into the credit card:
-Targeted Rewards: Create specific reward categories that match the spending habits of IT professionals, such as for technology purchases, software subscriptions, and online services.
-Travel Perks: Offer travel-related benefits like airport lounge access, travel insurance, and discounts on flights or hotel bookings, catering to the frequent travel needs of IT professionals.
-Exclusive Partnerships: Collaborate with popular brands or retailers to provide cardholders with unique discounts, promotions, or special offers.
-Extended Grace Period: Implement an extended interest-free grace period, especially for business-related expenses, allowing users more time to pay off their balances without accruing interest.
 ![image](https://github.com/user-attachments/assets/1ecbfb74-87f0-4e28-8f1b-e447c9c7f3eb)
 
 
